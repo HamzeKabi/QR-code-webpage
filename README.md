@@ -41,8 +41,9 @@ Recreating a QR code page, with the goal of practicing html and css
 - checking web responsiveness using Google Chrome inspect section
 - finding hex or rgb values of colors using MS Paint
 
-Here is a snippet worth mentioning:
-To align an element vertically, which responsive on all devices:
+Here is a snippet of code worth mentioning:
+
+To align an element vertically, responsive on all devices:
 
 ```css
 position: absolute;
