@@ -33,8 +33,8 @@ Recreating a QR code page, with the goal of practicing html and css
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML
+- CSS
 
 ### What I learned
 - Aligning an element vertically can be done in various ways
